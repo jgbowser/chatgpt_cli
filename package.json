@@ -1,0 +1,20 @@
+{
+  "name": "chatgpt_cli",
+  "version": "1.0.0",
+  "description": "a cli app for interacting with OpenAI's chatGPT",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "ai",
+    "chatgpt",
+    "openai",
+    "cli",
+    "node",
+    "chat",
+    "gpt"
+  ],
+  "author": "John Bowser",
+  "license": "ISC"
+}
